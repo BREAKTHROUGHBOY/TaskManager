@@ -121,7 +121,7 @@ Enter your choice: 1
 
 ## 👑 About Me
 
-> I’m [Ganesh](https://github.com/BREAKTHROUGH_BOY) — building **life-changing systems** with a mission to **push humanity beyond the current limits**, and leave behind tools, code, and knowledge that **transforms lives**.
+> I’m [Ganesh](https://github.com/BREAKTHROUGHBOY) — building **life-changing systems** with a mission to **push humanity beyond the current limits**, and leave behind tools, code, and knowledge that **transforms lives**.
 
 Follow my journey:
 
@@ -133,10 +133,8 @@ Follow my journey:
 
 ## 📣 Contact
 
-📧 Reach me on: \[YOUR EMAIL]
-🌍 Website/Blog: \[YOUR WEBSITE or DEVLOG LINK]
-📸 Instagram/Twitter: \[YOUR HANDLE]
-
+📧 Reach me on: \[BREAKTHROUGHBOY]
+🌍 X.com : \[Trillionare]
 ---
 
 ## ⭐️ How to Support
